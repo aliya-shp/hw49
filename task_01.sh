@@ -1,0 +1,7 @@
+#!/bin/bash
+
+mkdir -p projects/my_project/directory1/subdirectory1
+cd projects/my_project
+mkdir directory2 directory3
+cd directory3
+mkdir subdirectory2
