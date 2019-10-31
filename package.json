@@ -1,0 +1,23 @@
+{
+  "name": "hw49",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task_02.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliya-shp/hw49.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliya-shp/hw49/issues"
+  },
+  "homepage": "https://github.com/aliya-shp/hw49#readme",
+  "dependencies": {
+    "figlet": "^1.2.4"
+  }
+}
