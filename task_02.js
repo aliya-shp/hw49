@@ -1,3 +1,9 @@
-var message = 'Hello, world';
+var figlet = require('figlet');
 
-console.log(message);
+figlet.text(process.argv[2], function (error, data) {
+    if (error) {
+        console.log(error);
+    } else {
+        console.log(data);
+    }
+});
